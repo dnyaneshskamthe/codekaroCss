@@ -1,0 +1,27 @@
+.card{
+    width: 50%;
+    margin: 50px auto;
+    border-radius: 15px;
+    background-color:#69E793;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p {
+    padding: 15% 30px 0 30px;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+h4{
+    padding: 0 30px;
+    color: rgb(46, 43, 43);
+    font-size: 1rem;
+}
+.btn{
+    margin:30px 30px 90px 30px;
+    background-color: white;
+    color: rgb(17, 14, 14);
+    border: none;
+    padding: 14px 30px;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    border-radius: 50px;
+}
